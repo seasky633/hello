@@ -3,10 +3,10 @@
 
 int main(void)
 {
-	int i;
-	
-	for(i = 0; i < 5; i++) {
-		printf("hello word:%d \n", i);
-		printf("git ok now");
-	}
+    int i;
+
+    for(i = 0; i < 5; i++) {
+        printf("hello word:%d \n", i);
+        printf("git ok now");
+    }
 }
